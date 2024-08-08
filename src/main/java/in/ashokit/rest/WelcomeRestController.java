@@ -38,5 +38,9 @@ public class WelcomeRestController {
 		return msg;
 	}
 	
+	public void m2(){
+		//method m2() created
+	}
+	
 	
 }
