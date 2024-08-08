@@ -38,9 +38,7 @@ public class WelcomeRestController {
 		return msg;
 	}
 
-	public void m1(){
-		//method m1() added
-	}
+	
 	
 	public void m2(){
 		//method m2() created
