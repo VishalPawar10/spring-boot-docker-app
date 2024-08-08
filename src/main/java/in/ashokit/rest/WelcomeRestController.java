@@ -37,9 +37,6 @@ public class WelcomeRestController {
 		logger.info("***** ***************************** *****");
 		return msg;
 	}
-	public void m1(){
-		//m1 method created
-	}
 	
 	public void m2(){
 		//method m2() created
